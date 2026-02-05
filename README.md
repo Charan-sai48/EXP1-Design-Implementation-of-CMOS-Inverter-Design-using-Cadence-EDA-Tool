@@ -61,6 +61,7 @@ The aim is to create and simulate a CMOS inverter circuit with Cadence EDA tools
 
 
 
+
 ## Results:
 
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
